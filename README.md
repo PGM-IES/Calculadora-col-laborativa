@@ -13,7 +13,7 @@ calculadora/
 ├── conversio.py           # Parella 5: conversió Celsius ↔ Fahrenheit 
 └── arredonir.py           # Parella 6: arredonir un número decimal donat 
 
- 
+
 
 #Tasques per a cada parella 
 
